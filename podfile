@@ -1,0 +1,12 @@
+platform :ios, '11.0'
+use_frameworks!
+
+target 'AppLaunch' do
+
+pod 'paper-onboarding'
+pod 'GoogleSignIn'
+pod 'FacebookCore'
+pod 'FacebookLogin'
+pod 'SwiftKeychainWrapper'
+
+end
